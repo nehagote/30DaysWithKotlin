@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NehaGote_Task</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="title_activity_main">Country list using MVVM</string>
+    <string name="username_error">Please fill Username</string>
+    <string name="password_error">Please fill Password </string>
+
+</resources>
